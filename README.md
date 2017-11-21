@@ -1,3 +1,10 @@
+# TL;DR
+The only difference from [original project](https://github.com/gvaldambrini/storybook-router): no vue dependecies.
+
+Thanks to gvaldambrini for the original project.
+
+This repo is published as a `storybook-router-react` package.
+
 # storybook-router
 
 A [Storybook](https://storybook.js.org/) decorator that allows you to use your routing-aware components. You can simply use the library _link_ component within your story or you can write a real prototype of your application using `StoryRouter` in conjunction with the [story links addon](https://github.com/storybooks/storybook/tree/master/addons/links).
